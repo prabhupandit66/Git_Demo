@@ -1,1 +1,2 @@
 This is my first line for GIT
+This is the second line for GIT
